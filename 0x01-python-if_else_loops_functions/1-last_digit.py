@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author - Gbade Moses (@gbqde)
+# Author - Gbade Moses (@gbqde)
 
 import random
 number = random.randint(-10000, 10000)
